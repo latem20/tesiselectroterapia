@@ -1,0 +1,12 @@
+IMPORTANTE.
+-Para el uso con la fuente de alimentación de +9V y NO CONECTE la alimentación de USB. 
+-Para el uso con la fuente de alimentación de USB y NO CONECTE la alimentación de +9V. 
+-Use el prototipo en pacientes solo con la alimentación de +9V. 
+-La alimentación USB es solo para verificar parámetros y evaluación del equipo y NO en pacientes. 
+-Antes de encender el prototipo verifique que las perillas de control se encuentren en su valor más bajo. 
+-Una vez ajustados los valores de frecuencia o pulsos NO MUEVA las perillas de control. 
+-Conecte los electrodos al paciente solo después de haber ajustado los parámetros deseados. 
+-Ajuste la perilla de corriente desde el valor mas bajo y suba hasta sentir una sensación confortable o deseada. 
+-Antes de desconectar los electrodos del paciente ajuste la perrilla de corriente hasta el valor más bajo. 
+-Presione el botón de RESET solo si nota cambios no esperados en el prototipo. 
+-Use el prototipo SOLO con la supervisión de un especialista fisioterapeuta o médico. 
