@@ -3,3 +3,6 @@
 + ##  Derechos de Autor: 
  Universidad Nacional de Chimborazo; 
  Isaí Leopoldo Quinche Burga
+ 
+ Diseño 3D Órtesis facial
+ https://www.thingiverse.com/thing:5325023
